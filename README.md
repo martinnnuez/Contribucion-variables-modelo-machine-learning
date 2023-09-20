@@ -1,4 +1,4 @@
-# Un enfoque novedoso para evaluar la contribución de variables ambientales a la exposición de ciclistas al PM2,5.
+# Un enfoque novedoso para evaluar la contribución de variables ambientales a la exposición de ciclistas al PM2.5.
 
 Rodríguez Núñez Ma, Tavera Busso Ia,b, Mateos ACa,b , Carreras HAa,b *.
 
